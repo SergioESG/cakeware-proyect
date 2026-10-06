@@ -1,2 +1,2 @@
 # cakeware-proyect
-fproyecto de universidad con mis compañeros
+proyecto de universidad con mis compañeros
